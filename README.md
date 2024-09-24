@@ -18,26 +18,3 @@ a equipe administrativa do consultório tem acesso ao painel de gerenciamento, o
 ### VANDERSON DE LIMA DA SILVA - 2022012674
 
 ### RELATÓRIO DE PRÁTICAS DE SEGURANÇA, TESTES AUTOMATIZADOS E VALIDAÇÃO DE PROJETO MOBILE PARA AGENDAMENTO DE CONSULTAS MÉDICAS EM UM CONSULTÓRIO
-
-
-## Funcionalidades
-#### Listar todos os alimentos (GET /api/foods)
-Retorna uma lista de todos os alimentos no banco de dados.
-
-#### Buscar um alimento específico (GET /api/foods/)
-Retorna os detalhes de um alimento com base no ID fornecido.
-
-#### Criar um novo alimento (POST /api/foods)
-Cria um novo alimento com base nos dados fornecidos.
-
-#### Atualizar um alimento existente (PUT /api/foods/)
-Atualiza os dados de um alimento existente com base no ID fornecido.
-
-#### Excluir um alimento (DELETE /api/foods/)
-Remove um alimento com base no ID fornecido.
-
-## Estrutura
-O projeto utiliza uma estrutura em camadas para melhor organização e manutenção do código.
-
-## Modelo
-O esquema define a estrutura dos documentos de alimentos, incluindo campos como name, category, quantity, expirationDate e price.
