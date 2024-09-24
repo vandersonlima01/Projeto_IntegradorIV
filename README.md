@@ -12,9 +12,14 @@ o MVP inclui a opção de cancelar ou remarcar consultas, proporcionando flexibi
 ### Integração com o Consultório:
 a equipe administrativa do consultório tem acesso ao painel de gerenciamento, onde pode visualizar os agendamentos e organizar o fluxo de atendimento de forma otimizada.
 
-## Equipe Técnica:
-### DANIEL VICTOR DE SOUSA - 2022011514
-### PAULO SÉRGIO DO NASCIMENTO - 2022012164
-### VANDERSON DE LIMA DA SILVA - 2022012674
+### Equipe Técnica:
+#### DANIEL VICTOR DE SOUSA - 2022011514
+#### PAULO SÉRGIO DO NASCIMENTO - 2022012164
+#### VANDERSON DE LIMA DA SILVA - 2022012674
 
-### RELATÓRIO DE PRÁTICAS DE SEGURANÇA, TESTES AUTOMATIZADOS E VALIDAÇÃO DE PROJETO MOBILE PARA AGENDAMENTO DE CONSULTAS MÉDICAS EM UM CONSULTÓRIO
+#### RELATÓRIO DE PRÁTICAS DE SEGURANÇA, TESTES AUTOMATIZADOS E VALIDAÇÃO DE PROJETO MOBILE PARA AGENDAMENTO DE CONSULTAS MÉDICAS EM UM CONSULTÓRIO
+
+### Telas:
+![image](https://github.com/user-attachments/assets/5f9e9777-0fa3-4761-9612-766ccb7206bb)
+
+
