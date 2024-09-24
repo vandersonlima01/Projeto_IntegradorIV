@@ -12,7 +12,7 @@ o MVP inclui a opção de cancelar ou remarcar consultas, proporcionando flexibi
 ### Integração com o Consultório:
 a equipe administrativa do consultório tem acesso ao painel de gerenciamento, onde pode visualizar os agendamentos e organizar o fluxo de atendimento de forma otimizada.
 
-## EQUIPE TÉCNICA:
+## Equipe Técnica:
 ### DANIEL VICTOR DE SOUSA - 2022011514
 ### PAULO SÉRGIO DO NASCIMENTO - 2022012164
 ### VANDERSON DE LIMA DA SILVA - 2022012674
