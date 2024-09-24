@@ -20,6 +20,19 @@ a equipe administrativa do consultório tem acesso ao painel de gerenciamento, o
 #### RELATÓRIO DE PRÁTICAS DE SEGURANÇA, TESTES AUTOMATIZADOS E VALIDAÇÃO DE PROJETO MOBILE PARA AGENDAMENTO DE CONSULTAS MÉDICAS EM UM CONSULTÓRIO
 
 ### Telas:
+#### Usuário Médico:
 ![image](https://github.com/user-attachments/assets/5f9e9777-0fa3-4761-9612-766ccb7206bb)
+![image](https://github.com/user-attachments/assets/d3e6dc18-3643-4332-932c-aa35d7d520dd)
+![image](https://github.com/user-attachments/assets/8d4a7957-5889-48fd-aac8-519477fd2815)
+![image](https://github.com/user-attachments/assets/86603866-2e9d-425a-b2fe-bec371d4d266)
+#### Usuário Paciente:
+![image](https://github.com/user-attachments/assets/d61316ae-0098-4a8c-80dc-3e79d91858e4)
+![image](https://github.com/user-attachments/assets/47eec5a8-a22f-4a7e-97e9-269bf366d6da)
+![image](https://github.com/user-attachments/assets/3e1fb7bf-c018-4c37-a502-b2755baf3be5)
+
+
+
+
+
 
 
